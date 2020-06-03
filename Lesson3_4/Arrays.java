@@ -1,6 +1,6 @@
-package MyHomeProjectPackage;
+package Lesson3_4;
 
-public class lessons3_4 {
+public class Arrays {
     public static void main(String[] args) {
         int[] mass = {3,6,8,11,13,4,2,5,10,12};
 

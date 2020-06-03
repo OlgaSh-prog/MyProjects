@@ -1,6 +1,6 @@
-package MyHomeProjectPackage;
+package Lesson5;//package MyHomeProjectPackage;
 
-public class lesson5 {
+public class StringSymbols {
 
     public static void main(String[] args) {
 

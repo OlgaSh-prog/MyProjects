@@ -1,4 +1,4 @@
-package MyHomeProjectPackage;
+package Lesson3_4;
 
 import java.util.Scanner;
 

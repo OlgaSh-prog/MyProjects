@@ -1,6 +1,6 @@
-package MyHomeProjectPackage;
+package Lesson1_2;
 
-public class lessons1_2 {
+public class DateTypes {
 
     public static void main(String[] args) {
 
