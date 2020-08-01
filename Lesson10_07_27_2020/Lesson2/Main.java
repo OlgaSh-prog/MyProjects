@@ -1,4 +1,4 @@
-package Lesson10_1__07_27_2020;
+package Lesson10_07_27_2020.Lesson2;
 
 public class Main {
 
