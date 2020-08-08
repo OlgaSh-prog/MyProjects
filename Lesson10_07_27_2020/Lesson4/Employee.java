@@ -1,6 +1,6 @@
 package Lesson10_07_27_2020.Lesson4;
 
-public class Employee {
+public abstract class Employee {
 
     private int employeeID;
 
