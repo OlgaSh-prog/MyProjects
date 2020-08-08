@@ -2,13 +2,13 @@ package Lesson10_07_27_2020.Lesson4;
 
 public abstract class Employee {
 
-    private int employeeID;
+    protected int employeeID;
 
     public void getFullInfo (){
 
     }
-
-    public Employee (){
-
+//конструктор
+    public Employee(int employeeID) {
+        this.employeeID = employeeID;
     }
 }
