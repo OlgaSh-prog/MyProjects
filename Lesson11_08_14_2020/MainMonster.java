@@ -11,5 +11,4 @@ public class MainMonster {
         System.out.println("Monster! ");
 
     }
-
 }

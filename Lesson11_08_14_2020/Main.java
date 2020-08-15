@@ -6,8 +6,6 @@ public class Main {
 
         Godzilla godzilla = new Godzilla();
         Dracula dracula = new Dracula();
-        MainMonster mainMonster = new MainMonster();
-
 
 
 

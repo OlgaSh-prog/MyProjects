@@ -1,6 +1,7 @@
 package Lesson11_08_14_2020;
 
 public class Dracula extends TerribleMonster implements Monster {
+
     @Override
     public void destroy() {
         System.out.println("Dracula - terrible monster, destroying everything! ");
@@ -8,6 +9,7 @@ public class Dracula extends TerribleMonster implements Monster {
 
     @Override
     public void kill() {
+
         System.out.println("Dracula - terrible monster, killing everyone! ");
     }
 
@@ -18,6 +20,7 @@ public class Dracula extends TerribleMonster implements Monster {
 
     @Override
     public void eatAlive() {
+
         System.out.println("Dracula - terrible monster, eating alive! ");
     }
 }
