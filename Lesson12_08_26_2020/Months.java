@@ -1,7 +1,5 @@
 package Lesson12_08_26_2020;
 
-import com.sun.java.swing.plaf.windows.WindowsInternalFrameTitlePane;
-
 public enum Months {
 
     DECEMBER(31, Season.WINTER), JANUARY(31, Season.WINTER), FEBRUARY(31, Season.WINTER),
@@ -16,6 +14,7 @@ public enum Months {
         this.days = days;
         this.season = season;
     }
+
 
     public int getDays() {
         return days;
