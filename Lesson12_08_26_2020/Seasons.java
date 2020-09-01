@@ -1,5 +1,5 @@
 package Lesson12_08_26_2020;
 
-public enum Season {
+public enum Seasons {
     WINTER, SPRING, SUMMER, FALL
 }
